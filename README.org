@@ -4,6 +4,6 @@ Utilities for interacting with the filesystem
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/shinmera/filesystem-utils.git |
-| commit  | cb9611b                                              |
+| commit  | 292b55c                                              |
 | systems | filesystem-utils                                     |
 |---------+------------------------------------------------------|
