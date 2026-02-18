@@ -3,7 +3,7 @@
 Utilities for interacting with the filesystem
 
 |---------+------------------------------------------------------|
-| source  | git:https://github.com/shinmera/filesystem-utils.git |
-| commit  | 571fba3                                              |
+| source  | git:https://codeberg.org/shinmera/filesystem-utils.git |
+| commit  | 0000000                                              |
 | systems | filesystem-utils                                     |
 |---------+------------------------------------------------------|
